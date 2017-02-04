@@ -2,13 +2,13 @@
 
 1. Html setup
 2. Basic html tags
-  1. <head></head>
-  2. <body></body>
-  3. h1-h6 ex. <h1></h1>
-  4. <p></p>
-  5. <a></a>
-  6. <img/>
-  7. <div></div>
+  1. `<head></head>`
+  2. `<body></body>`
+  3. h1-h6 ex. `<h1></h1>`
+  4. `<p></p>`
+  5. `<a></a>`
+  6. `<img/>`
+  7. `<div></div>`
 3. CSS
   1. background-color
   2. color
