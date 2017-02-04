@@ -8,7 +8,8 @@
   4. `<p></p>`
   5. `<a></a>`
   6. `<img/>`
-  7. `<div></div>`
+  7. `<ul></ul>` & `<ol></ol>`
+  8. `<div></div>`
 3. CSS
   1. background-color
   2. color
@@ -26,5 +27,5 @@
    http://www.w3schools.com/colors/colors_picker.asp
 
 ##Code references/learning more
-  https://developer.mozilla.org/en-US/docs/Web/HTML
-  https://www.codecademy.com/
+  * https://developer.mozilla.org/en-US/docs/Web/HTML
+  * https://www.codecademy.com/
