@@ -1,0 +1,50 @@
+body{
+     font-size: 18px;
+     padding: 0 10px;
+}
+div,.nav{
+     display: block;
+}
+h1{
+   font-size: 2.5em;
+   color: white;
+   background-color: black;
+   padding-left: 5px;
+}
+ol li{
+     font-weight: bold;
+     font-style: italic;
+}
+.nav ul{
+        list-style: none;
+        padding: 0;
+}
+.nav ul li{
+        display: inline-block;
+        width: 32.8%;
+        background: black;
+        text-align: center;
+        padding: 10px 0 10px 0;
+}
+.nav a{
+       color: limegreen;
+}
+.main{
+      background: lightgray;
+      padding-bottom: 10px;
+}
+.intro{
+       font-weight: bold;
+       padding: 0 10px;
+}
+img{
+         width: 45%;
+         padding: 3px;
+         float: left;
+}
+.rightSide{
+           float: right;
+}
+.footer{
+       clear: both;
+}
